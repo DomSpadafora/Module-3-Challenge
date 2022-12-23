@@ -30,9 +30,9 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 ```
 
-## Mock-Up
+## Final Product
 
 The following image shows the web application's appearance and functionality:
 
-![Linke to Dom's Password Generator. ](./Assets/03-javascript-homework-demo.png)
+![Link to Dom's Password Generator. ](./Assets/03-javascript-homework-demo.png)
 
